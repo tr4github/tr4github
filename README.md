@@ -43,13 +43,13 @@
 </p>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/YouTube-Kontoru卐-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCpGq_PDssUrT6Z9IF9S64JQ" /></a>
-  <a name=putra&label=VIEWS&style=flat-square&color=orange" />
+  <a href=""><img src="https://img.shields.io/badge/YouTube-Kontoru卐-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=" /></a>
+  <a name=Fer&label=VIEWS&style=flat-square&color=orange" />
 
 </p> 
  #sosial media
  
- tr4a._
+ justneotra
 
 * [`WhatsApp Admin `](https://wa.me/6289654836567)
                                                   
