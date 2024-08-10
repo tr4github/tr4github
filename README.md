@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/YouTube-Kontoru卐-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=" /></a>
+  <a href=""><img src="https://img.shields.io/badge/YouTube-Neot-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=" /></a>
   <a name=Fer&label=VIEWS&style=flat-square&color=orange" />
 
 </p> 
